@@ -19,7 +19,7 @@ Get it from the App Store:
 <a href="http://bit.ly/splitcloud" target="_blank"><img src="https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg-25178aeef6eb6b83b96f5f2d004eda3bffbb37122de64afbaef7107b384a4132.svg"></a>
 
 
-![splitcloud](https://cdn-images-1.medium.com/max/800/1*_MedN7kEkKkLKPjCzNbWzA.png)
+<img src="./screenshots/1.jpg">
 
 ### Dev instructions
 
@@ -59,9 +59,3 @@ copy the structure `./config/config.dist.js` into `./config/config.js` and edit 
 
 To develop it's node dependecy package egm0121-react-native-audio-streaming use wml tool to watch the cloned project folder, using npm link breaks the packager of react native.
 
-use command:
-
-```
-wml add  ./egm0121-react-native-audio-streaming ./react-native-demo/node_modules/react-native-audio-streaming
-wml start
-```
