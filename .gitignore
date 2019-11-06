@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.xcuserstate
+config.js
+assets/cache/
+ios-release.*
+.env
+ios/GoogleMobileAds.framework
