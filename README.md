@@ -19,7 +19,8 @@ Get it from the App Store:
 <a href="http://bit.ly/splitcloud" target="_blank"><img src="https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg-25178aeef6eb6b83b96f5f2d004eda3bffbb37122de64afbaef7107b384a4132.svg"></a>
 
 
-<img src="./screenshots/1.jpg">
+<img src="./screenshots/1.png">
+![screenshots of example app](/images/screenshots@2x.png)
 
 ### Dev instructions
 
