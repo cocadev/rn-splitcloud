@@ -1,4 +1,4 @@
-### SplitCloud App
+### React-Native SplitCloud App
 
 This is the repo for the iOS SplitCloud app built with ReactNative and a fork of StreamingKit project.
 
