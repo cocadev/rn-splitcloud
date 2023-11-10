@@ -9,7 +9,7 @@
     "test-env": "echo $BUGSNAG_KEY"
   },
   "dependencies": {
-    "axios": "0.15.3",
+    "axios": "1.6.0",
     "buffer": "5.1.0",
     "bugsnag-react-native": "2.9.5",
     "es2015-event-emitter": "0.0.3",
